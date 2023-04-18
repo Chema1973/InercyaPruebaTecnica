@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yEfe/3yUVwunYqPw0HkT7TDJnm42ZeQ5nThaVMb6H4m+x6gyQVGQUfR9bqSLiyEmXRVPmO/AvEf/myECzczWaw==",
+  "success": true,
+  "projectFilePath": "C:\\00 - Chema\\Documentos\\I-nercya\\ApplicationWebTreeView\\ApplicationWebTreeView\\ApplicationWebTreeView.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Chema\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
