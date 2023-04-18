@@ -1,0 +1,15 @@
+C:\00 - Chema\Documentos\I-nercya\AppConsoleRandom\AppConsoleRandom\bin\Debug\net6.0\AppConsoleRandom.exe
+C:\00 - Chema\Documentos\I-nercya\AppConsoleRandom\AppConsoleRandom\bin\Debug\net6.0\AppConsoleRandom.deps.json
+C:\00 - Chema\Documentos\I-nercya\AppConsoleRandom\AppConsoleRandom\bin\Debug\net6.0\AppConsoleRandom.runtimeconfig.json
+C:\00 - Chema\Documentos\I-nercya\AppConsoleRandom\AppConsoleRandom\bin\Debug\net6.0\AppConsoleRandom.dll
+C:\00 - Chema\Documentos\I-nercya\AppConsoleRandom\AppConsoleRandom\bin\Debug\net6.0\AppConsoleRandom.pdb
+C:\00 - Chema\Documentos\I-nercya\AppConsoleRandom\AppConsoleRandom\obj\Debug\net6.0\AppConsoleRandom.csproj.AssemblyReference.cache
+C:\00 - Chema\Documentos\I-nercya\AppConsoleRandom\AppConsoleRandom\obj\Debug\net6.0\AppConsoleRandom.GeneratedMSBuildEditorConfig.editorconfig
+C:\00 - Chema\Documentos\I-nercya\AppConsoleRandom\AppConsoleRandom\obj\Debug\net6.0\AppConsoleRandom.AssemblyInfoInputs.cache
+C:\00 - Chema\Documentos\I-nercya\AppConsoleRandom\AppConsoleRandom\obj\Debug\net6.0\AppConsoleRandom.AssemblyInfo.cs
+C:\00 - Chema\Documentos\I-nercya\AppConsoleRandom\AppConsoleRandom\obj\Debug\net6.0\AppConsoleRandom.csproj.CoreCompileInputs.cache
+C:\00 - Chema\Documentos\I-nercya\AppConsoleRandom\AppConsoleRandom\obj\Debug\net6.0\AppConsoleRandom.dll
+C:\00 - Chema\Documentos\I-nercya\AppConsoleRandom\AppConsoleRandom\obj\Debug\net6.0\refint\AppConsoleRandom.dll
+C:\00 - Chema\Documentos\I-nercya\AppConsoleRandom\AppConsoleRandom\obj\Debug\net6.0\AppConsoleRandom.pdb
+C:\00 - Chema\Documentos\I-nercya\AppConsoleRandom\AppConsoleRandom\obj\Debug\net6.0\AppConsoleRandom.genruntimeconfig.cache
+C:\00 - Chema\Documentos\I-nercya\AppConsoleRandom\AppConsoleRandom\obj\Debug\net6.0\ref\AppConsoleRandom.dll

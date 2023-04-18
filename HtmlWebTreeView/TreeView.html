@@ -1,0 +1,33 @@
+<html>
+	<head>
+	<meta name="viewport" content="width=device-width" />
+    <title>Tree View</title>
+	<script type="text/javascript" language="javascript" src="Items.js"></script>
+	</head>
+	<body>
+		<div id="tree"></div>
+		<script>
+		
+			function recursive(object, node) {
+
+				var list = document.createElement("ul");
+    
+				for (var a = 0; a< object.length; a++){
+					var item = document.createElement("li");
+					item.innerHTML = object[a].Name;
+			
+					if (typeof(object[a].Children == "object")) {
+						recursive(object[a].Children, item);
+					}
+					list.appendChild(item);
+				}
+				if (list.parentElement != null) {
+					item.appendChild(list);
+				}
+				node.appendChild(list);
+			}
+
+			recursive(datos, document.getElementById("tree"));
+		</script>
+	</body>
+</html>

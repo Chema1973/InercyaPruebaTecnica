@@ -1,0 +1,17 @@
+C:\00 - Chema\Documentos\I-nercya\AppConsoleReader\AppConsoleReader\bin\Debug\net6.0\AppConsoleReader.exe
+C:\00 - Chema\Documentos\I-nercya\AppConsoleReader\AppConsoleReader\bin\Debug\net6.0\AppConsoleReader.deps.json
+C:\00 - Chema\Documentos\I-nercya\AppConsoleReader\AppConsoleReader\bin\Debug\net6.0\AppConsoleReader.runtimeconfig.json
+C:\00 - Chema\Documentos\I-nercya\AppConsoleReader\AppConsoleReader\bin\Debug\net6.0\AppConsoleReader.dll
+C:\00 - Chema\Documentos\I-nercya\AppConsoleReader\AppConsoleReader\bin\Debug\net6.0\AppConsoleReader.pdb
+C:\00 - Chema\Documentos\I-nercya\AppConsoleReader\AppConsoleReader\obj\Debug\net6.0\AppConsoleReader.csproj.AssemblyReference.cache
+C:\00 - Chema\Documentos\I-nercya\AppConsoleReader\AppConsoleReader\obj\Debug\net6.0\AppConsoleReader.GeneratedMSBuildEditorConfig.editorconfig
+C:\00 - Chema\Documentos\I-nercya\AppConsoleReader\AppConsoleReader\obj\Debug\net6.0\AppConsoleReader.AssemblyInfoInputs.cache
+C:\00 - Chema\Documentos\I-nercya\AppConsoleReader\AppConsoleReader\obj\Debug\net6.0\AppConsoleReader.AssemblyInfo.cs
+C:\00 - Chema\Documentos\I-nercya\AppConsoleReader\AppConsoleReader\obj\Debug\net6.0\AppConsoleReader.csproj.CoreCompileInputs.cache
+C:\00 - Chema\Documentos\I-nercya\AppConsoleReader\AppConsoleReader\obj\Debug\net6.0\AppConsoleReader.dll
+C:\00 - Chema\Documentos\I-nercya\AppConsoleReader\AppConsoleReader\obj\Debug\net6.0\refint\AppConsoleReader.dll
+C:\00 - Chema\Documentos\I-nercya\AppConsoleReader\AppConsoleReader\obj\Debug\net6.0\AppConsoleReader.pdb
+C:\00 - Chema\Documentos\I-nercya\AppConsoleReader\AppConsoleReader\obj\Debug\net6.0\AppConsoleReader.genruntimeconfig.cache
+C:\00 - Chema\Documentos\I-nercya\AppConsoleReader\AppConsoleReader\obj\Debug\net6.0\ref\AppConsoleReader.dll
+C:\00 - Chema\Documentos\I-nercya\AppConsoleReader\AppConsoleReader\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\00 - Chema\Documentos\I-nercya\AppConsoleReader\AppConsoleReader\obj\Debug\net6.0\AppConsoleReader.csproj.CopyComplete
